@@ -11,7 +11,6 @@ A crypto exchange app with Flutter
 <br/>
 
 ## Images :
-![CoinBase](https://github.com/bardlur/Crypto_Exchange/assets/138980378/76af2045-6a8c-46ef-bb19-badb90b219cf)
+![CoinBase](https://github.com/bardlur/Crypto_Exchange/assets/138980378/f67d423a-a6a9-46ad-a4aa-4868eb7da772)
 
-![crypto](https://github.com/bardlur/Crypto_Exchange/assets/138980378/c404efe6-a24f-4a3e-8f86-8db51820c27d)
-
+![crypto](https://github.com/bardlur/Crypto_Exchange/assets/138980378/4cd11e88-e8d2-4535-8203-1c603ff77fdd)
